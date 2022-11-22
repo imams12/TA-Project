@@ -1,4 +1,20 @@
-## Proposal
+# ANALISIS SENTIMEN PADA ULASAN APLIKASI PEDULI LINDUNGI DI GOOGLE PLAY STORE DENGAN METODE ADASYN-MULTINOMIAL NAIVE BAYES
+## Berkas Ujian Proposal
+* [Undangan dan Penilaian Bu Dewi](Berkas-Ujian-Proposal/Undangan_dan_Penilaian_Bu_Dewi.doc)
+* [Undangan dan Penilaian Bu Purnami](Berkas-Ujian-Proposal/Undangan_dan_Penilaian_Bu_Purnami.doc)
+* [Undangan dan Penilaian Pak Putranto](Berkas-Ujian-Proposal/Undangan_dan_Penilaian_Pak_Putranto.doc)
+## Proposal Revisi
+* [Proposal TA IMAM](Proposal-Revisi/Proposal_TA_IMAM.pdf)
+* [Proposal TA IMAM rev](Proposal-Revisi/Proposal_TA_IMAM_rev.pdf)
+* [Proposal TA IMAM rev2](Proposal-Revisi/Proposal_TA_IMAM_rev2.pdf)
+* [Proposal TA IMAM rev3](Proposal-Revisi/Proposal_TA_IMAM_rev3.pdf)
+* [Proposal TA IMAM rev4](Proposal-Revisi/Proposal_TA_IMAM_rev4.pdf)
+* [Proposal TA IMAM rev5](Proposal-Revisi/Proposal_TA_IMAM_rev5.pdf)
+* [Proposal TA IMAM rev6](Proposal-Revisi/Proposal_TA_IMAM_rev6.pdf)
+* [Proposal TA IMAM rev7](Proposal-Revisi/Proposal_TA_IMAM_rev7.pdf)
+## PPT
+* [PPT Proposal](PPT/PPT_Proposal.pptx)
+* [Script PPT](PPT/Script_PPT_Proposal.docx)
 ## Referensi Proposal
 * [Abbas, M., K.A. Memon, A.A. Jamali, S. Memon, and A. Ahmed, Multinomial Naive Bayes Classification Model for Sentiment Analysis. IJCSNS Int. J. Comput. Sci. Netw. Security, Vol. 19, No. 3, 2019.](Referensi/Multinomial_Naive_Bayes_Classification_Model_for_Sentiment_Analysis.pdf)
 * [Agustina, N., D.H. Citra, W. Purnama, C. Nisa, dan A.R. Kurnia, Implementasi Algoritme Naive Bayes untuk Analisis Sentimen Ulasan Shopee pada Google Play Store. MALCOM: Indonesian Journal of Machine Learning and Computer Science, Vol. 2, No. 1, 2022.](Referensi/Implementasi_Algoritma_Naive_Bayes_untuk_Analisis_Sentimen.pdf)
